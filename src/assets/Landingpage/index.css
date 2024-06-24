@@ -1,0 +1,16 @@
+.landingpage{
+    display: flex;
+
+}
+h3{
+    color: black;
+}
+.landingpage span{
+    color: black;
+    border: solid;
+    padding: 5px;
+    border-radius: 7cap;
+}
+.landingcontent{
+    color: black;
+}
