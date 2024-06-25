@@ -1,0 +1,8 @@
+.series{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 30px;
+}
+.series div img{
+    border-radius: 30px;
+}

@@ -1,16 +1,15 @@
 .navlink{
     display: flex;
     list-style: none;
-    padding: 5px;
-    color: black;
-    justify-content: center;
-    width: 73.8em;
+    align-items: center;
+    justify-content: space-around;
     font-size: larger;
     font-weight: 600;
+   color: grey;
 
 
 }
 .navlink li{
-    padding: 25px;
+    padding: 15px;
 
 }

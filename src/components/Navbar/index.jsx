@@ -12,7 +12,7 @@ const Navbar=()=>{
                     <span style={{color:'red'}}>Brick House</span>
                 </div>
                 <div className="navinput">
-                    <span>Catalog</span>
+                    <span><box-icon name='grid' type='solid' ></box-icon>Catalog</span>
                     <input type="text" placeholder="Search..." />
                 </div>
                 <div className="navicons"> 

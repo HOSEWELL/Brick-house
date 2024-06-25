@@ -1,23 +1,20 @@
 .navbar{
     display: flex;
-    justify-content: space-between;
-    background-color: yellow;
-    height: 50px;
+    justify-content: space-around;
+    background-color: #FFD600;
+    padding: 10px;
     font-size: x-large;
     font-weight: 700;
 }
 .navinput input{
     background-color: white;
-    border-radius: 30px;
+    border-radius: 5px;
     border: none;
     padding: 10px;
-    color: black;
-
-
 }
 .navicons{
     list-style: none;
     display: flex;
-    justify-content: space-between;
-    border-color: white;
+    justify-content: space-around;
+    color: white;
 }

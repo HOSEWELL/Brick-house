@@ -1,0 +1,31 @@
+.photodiv{
+    color: black;
+    padding: 10px;
+    font-weight: 600;
+    
+}
+.photodiv:hover{
+    border-radius: 20px;
+background: #e0e0e0;
+box-shadow:  39px 39px 79px #bebebe,
+             -39px -39px 79px #ffffff;
+}
+.photo-div-content{
+    display: flex;
+    justify-content: space-around;
+}
+.likediscount{
+    color: white;
+    background-color: #E70062;
+    border-radius: 20px;
+    padding: 5px;
+}
+.like{
+    color: #FFD600;
+    margin-left: 15em;
+}
+.cart{
+    color: #FFD600;
+    margin-left: 9em;
+
+}

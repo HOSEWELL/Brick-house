@@ -1,0 +1,15 @@
+.discount{
+    color: black;
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    column-gap: 10em;   
+    padding: 10px;  
+    font-weight: 500;
+}
+.discountdiv:hover{
+    background: #e0e0e0;
+    border-radius: 20px;
+    box-shadow:  39px 39px 79px #bebebe,
+                 -39px -39px 79px #ffffff;
+}

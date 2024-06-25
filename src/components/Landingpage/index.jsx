@@ -6,27 +6,27 @@ const Landing=()=>{
     return(
         <>
         <div className="landingpage">
-            <div>
-                <figure className="landingcontent">
-                    <img src="https://www.lego.com/en-us/categories/adults-welcome/article/best-lego-sets-of-childhood-tv-shows-and-movies" alt="" />
-                    <figcaption>THE LORD OF THE RINGS: RIVENDELL</figcaption>
-                </figure>
+            <div className="landingcontent">
+                <div className="logo">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg9XdQOWr5vZkNn_Nt2Jjr6OC5GBN8XiVENiZPBYd5gzDPBwqa" alt="" />
+                </div>
+               
 
             </div>
-            <div>
+            <div className="selector">
                 <h3>Select constructor</h3>
                 <h3>price($) </h3>
-                <input type="range" id="points" name="points" min="0" max="10"/>
+                <input type="range" id="points" name="points" />
                 <h3>Age</h3>
                 <span>Any</span><span>2-4</span><span>5-8</span><span>9-17</span><span>18+</span>
                 <h3>Select Series</h3>
-                <i><select name="" id="">
+                <i><select name="" id="selector">
                     <option value="">Series</option>
                     <option value="">Movie</option>
                     <option value="">Trailes</option>
                     </select></i>
                 <br />
-                <button>select</button>
+                <button className="select">select</button>
             </div>
         </div>
 

@@ -1,0 +1,51 @@
+.footernav{
+    background-color: #FFD600;
+    font-weight: bold;
+    color: white;
+    justify-content: space-around;
+    height: 55px;
+    display: flex;
+    padding: 5px;
+}
+.footernav input{
+    color: grey;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px 0px 0px 10px;
+  border: none;
+
+}
+.footernav button{
+    padding: 17px;
+    border-radius:  0px 10px 10px 0px;
+}
+.span{
+    font-size: xx-large;
+}
+.footernav div button{
+    border: none;
+    padding: 20px;
+    background-color: #E70062;
+}
+.navlinks{
+    display: flex;
+    background-color: #26004C;
+    list-style: none;
+    color: white;
+    padding: 50px;
+    justify-content: space-around;
+}
+.navlinks div li{
+    padding: 8px;
+}
+.navlinks i{
+    padding: 10px;
+    font-size: x-large;
+}
+.policy{
+    display: flex;
+    color: white;
+    background-color: #26004C;
+    padding: 20px;
+    justify-content: space-around;
+}
