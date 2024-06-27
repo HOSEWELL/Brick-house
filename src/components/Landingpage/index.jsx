@@ -15,7 +15,7 @@ const Landing=()=>{
             </div>
             <div className="selector">
                 <h3>Select constructor</h3>
-                <h3>price($) </h3>
+                <h3>Price($) </h3>
                 <input type="range" id="points" name="points" />
                 <h3>Age</h3>
                 <span>Any</span><span>2-4</span><span>5-8</span><span>9-17</span><span>18+</span>

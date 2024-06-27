@@ -12,9 +12,17 @@
     border: none;
     padding: 10px;
 }
+.navinput span{
+    margin-right: 10px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
 .navicons{
     list-style: none;
     display: flex;
+    width: 5em;
+    padding: 5px;
     justify-content: space-around;
     color: white;
 }
